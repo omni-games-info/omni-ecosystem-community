@@ -1,4 +1,4 @@
-# 🌐 Omni Ecosystem
+# Omni Ecosystem
 
 Welcome to the **Omni Ecosystem** — the central community hub for all Omni Games projects, tools, and initiatives.
 
@@ -6,7 +6,7 @@ This repository exists for ecosystem-wide discussions, roadmap planning, cross-t
 
 ---
 
-## 🚀 About Omni Games
+## About Omni Games
 
 Omni Games is a growing suite of online tools and interactive utilities designed to simplify workflows, enhance discovery, and connect systems.
 
@@ -15,7 +15,7 @@ Omni Games is a growing suite of online tools and interactive utilities designed
 
 ---
 
-## 🧰 Tools in the Ecosystem
+## Tools in the Ecosystem
 
 The Omni Ecosystem currently includes:
 
@@ -26,22 +26,22 @@ The Omni Ecosystem currently includes:
 
 Each tool has its own dedicated repository for:
 
-- 🐛 Bug reports  
-- 🛠 Technical issues  
-- ✨ Feature implementation  
-- 📚 Tool-specific documentation  
+-  Bug reports  
+-  Technical issues  
+-  Feature implementation  
+-  Tool-specific documentation  
 
 ---
 
-## 📢 Purpose of This Repository
+## Purpose of This Repository
 
 Use this repository for:
 
-- 💡 Cross-tool feature ideas  
-- 🗺 Ecosystem roadmap discussions  
-- 🤝 Community proposals  
-- 📣 Announcements  
-- ❓ General questions about Omni Games  
+-  Cross-tool feature ideas  
+-  Ecosystem roadmap discussions  
+-  Community proposals  
+-  Announcements  
+-  General questions about Omni Games  
 
 This is the **central discussion hub** for the entire ecosystem.
 
