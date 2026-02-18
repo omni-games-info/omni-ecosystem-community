@@ -23,9 +23,6 @@ A high-precision 1G1R (One Game, One Region) processing tool designed to generat
 ### OmniScope  
 An advanced metadata analysis engine that enables deep inspection, filtering, and segmentation of ROM datasets using user-defined rules and criteria.
 
-### OmniBridge  
-A structured asset management utility for organizing, validating, and downloading ROM-related files efficiently and reliably.
-
 ### OmniSelect  
 A collection-building engine that allows users to construct optimized, device-specific ROM sets tailored to storage limits and hardware constraints.
 
