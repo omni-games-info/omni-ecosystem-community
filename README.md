@@ -1,109 +1,86 @@
-# Omni Ecosystem
+# Omni Ecosystem Community
 
-Welcome to the **Omni Ecosystem** — the central community hub for all Omni Games projects, tools, and initiatives.
+Welcome to the Omni Ecosystem Community — the central hub for discussion, planning, and collaboration across all Omni projects.
 
-This repository exists for ecosystem-wide discussions, roadmap planning, cross-tool ideas, and community collaboration.
+This repository exists for ecosystem-wide conversations, roadmap discussions, cross-tool proposals, and general community feedback.
 
 ---
 
 ## About Omni Games
 
-Omni Games is a growing suite of online tools and interactive utilities designed to simplify workflows, enhance discovery, and connect systems.
+Omni Games is a suite of structured ROM management and analysis tools built to improve precision, control, and efficiency in collection building and preservation workflows.
 
-🔗 Website: https://omni-games.info/  
-🔗 GitHub Organization: https://github.com/omni-games-info  
+Website: https://omni-games.info/  
+GitHub Organization: https://github.com/omni-games-info  
 
 ---
 
 ## Tools in the Ecosystem
 
-The Omni Ecosystem currently includes:
+### Omni1  
+A high-precision 1G1R (One Game, One Region) processing tool designed to generate accurate, clean ROM sets with strict region and version control.
 
-- **Omni1** – Core utility tool  
-- **OmniScope** – Exploration and analysis tool  
-- **OmniSelect** – Advanced selection & filtering tool  
-- **OmniBridge** – Cross-system connection tool  
+### OmniScope  
+An advanced metadata analysis engine that enables deep inspection, filtering, and segmentation of ROM datasets using user-defined rules and criteria.
 
-Each tool has its own dedicated repository for:
+### OmniBridge  
+A structured asset management utility for organizing, validating, and downloading ROM-related files efficiently and reliably.
 
--  Bug reports  
--  Technical issues  
--  Feature implementation  
--  Tool-specific documentation  
+### OmniSelect  
+A collection-building engine that allows users to construct optimized, device-specific ROM sets tailored to storage limits and hardware constraints.
+
+Each tool has its own dedicated repository for technical issues, feature implementation, and development tracking.
 
 ---
 
 ## Purpose of This Repository
 
-Use this repository for:
+This repository is intended for:
 
--  Cross-tool feature ideas  
--  Ecosystem roadmap discussions  
--  Community proposals  
--  Announcements  
--  General questions about Omni Games  
+- Ecosystem-wide feature discussions  
+- Cross-tool integration proposals  
+- Roadmap planning  
+- General questions about Omni projects  
+- Community input and feedback  
 
-This is the **central discussion hub** for the entire ecosystem.
-
----
-
-## 🚫 What This Repository Is NOT For
-
-Please report the following inside the relevant tool repository:
-
-- Tool-specific bugs  
-- Technical implementation problems  
-- Code-level feature requests  
-
-Keeping discussions organized helps the ecosystem scale cleanly.
+Tool-specific bugs and technical issues should be reported in the relevant tool repository.
 
 ---
 
-## 🏗 Ecosystem Structure
+## Ecosystem Structure
 
 ```text
 omni-games-info (organization)
 │
-├── omni-ecosystem (community hub)
+├── omni-ecosystem-community
 ├── omni1
 ├── omniscope
-├── omniselect
 ├── omnibridge
+├── omniselect
 └── website
 ```
 
 ---
 
-## 🌱 Contributing
+## Contributing
 
-We welcome:
+Community contributions are welcome in the form of:
 
-- Feature ideas  
-- UX suggestions  
+- Feature proposals  
+- Workflow improvements  
 - Integration concepts  
-- Community discussions  
+- Structured feedback  
 
-If you'd like to contribute to a specific tool, please visit its repository.
-
----
-
-## 🔮 Vision
-
-The Omni Ecosystem aims to build a modular, scalable suite of tools that:
-
-- Operate independently  
-- Integrate seamlessly  
-- Grow sustainably  
-
-This is just the beginning.
+For development contributions, please refer to the individual tool repositories.
 
 ---
 
-## 📬 Stay Connected
+## Vision
 
-Website: https://omni-games.info/  
-GitHub: https://github.com/omni-games-info  
+The Omni Ecosystem is designed as a modular, precision-focused framework for ROM data management and collection building.  
+
+Each tool operates independently while supporting a cohesive workflow across the broader ecosystem.
 
 ---
 
-**Built and maintained by the Omni Games team.**
+Built and maintained by the Omni Games team.
